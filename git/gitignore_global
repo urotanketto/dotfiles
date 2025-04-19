@@ -1,0 +1,11 @@
+.DS_Store
+*.log
+*.swp
+*.swo
+
+.env
+
+node_modules/
+
+*.tmp
+

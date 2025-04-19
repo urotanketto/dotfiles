@@ -1,0 +1,12 @@
+[user]
+	name = urotanketto
+	email = 197749865+urotanketto@users.noreply.github.com
+[core]
+	editor = nvim
+	excludesfile = /Users/urotanketto/.config/git/gitignore_global
+[color]
+	ui = auto
+[init]
+	defaultBranch = main
+[commit]
+	template = /Users/urotanketto/.config/git/gitmessage
