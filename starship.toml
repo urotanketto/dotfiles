@@ -43,7 +43,7 @@ black = "#0e0d15"
 
 [fill]
 symbol = "─"
-style = "bg:background fg:white"
+style = "bg:background fg:blue"
 
 [os]
 disabled = false
