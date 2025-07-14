@@ -16,6 +16,7 @@ $rust\
 $golang\
 $haskell\
 $python\
+$kubernetes\
 [](fg:blue bg:background)\
 $fill\
 \n$character
@@ -121,6 +122,11 @@ format = '[[ $symbol( $version) ](fg:black bg:blue)]($style)'
 symbol = ""
 style = "bg:blue"
 format = '[[ $symbol( $version) ](fg:black bg:blue)]($style)'
+
+[kubernetes]
+disabled = false
+style = "bg:blue"
+format = '[[⛵ ($user on )($cluster in )$context \($namespace\)](fg:black bg:blue)]($style)'
 
 [character]
 disabled = false
